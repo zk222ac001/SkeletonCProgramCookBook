@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HowToRunFirstProgramInCHell
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EscapeCharactersInC", "EscapeCharactersInC\EscapeCharactersInC.vcxproj", "{77DF1F9B-80F4-4F1F-88D2-CBD0DAEE8102}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HowDataStoredInMemory", "HowDataStoredInMemory\HowDataStoredInMemory.vcxproj", "{64EAD50A-595F-41E2-B19F-59801C721F53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{77DF1F9B-80F4-4F1F-88D2-CBD0DAEE8102}.Release|x64.Build.0 = Release|x64
 		{77DF1F9B-80F4-4F1F-88D2-CBD0DAEE8102}.Release|x86.ActiveCfg = Release|Win32
 		{77DF1F9B-80F4-4F1F-88D2-CBD0DAEE8102}.Release|x86.Build.0 = Release|Win32
+		{64EAD50A-595F-41E2-B19F-59801C721F53}.Debug|x64.ActiveCfg = Debug|x64
+		{64EAD50A-595F-41E2-B19F-59801C721F53}.Debug|x64.Build.0 = Debug|x64
+		{64EAD50A-595F-41E2-B19F-59801C721F53}.Debug|x86.ActiveCfg = Debug|Win32
+		{64EAD50A-595F-41E2-B19F-59801C721F53}.Debug|x86.Build.0 = Debug|Win32
+		{64EAD50A-595F-41E2-B19F-59801C721F53}.Release|x64.ActiveCfg = Release|x64
+		{64EAD50A-595F-41E2-B19F-59801C721F53}.Release|x64.Build.0 = Release|x64
+		{64EAD50A-595F-41E2-B19F-59801C721F53}.Release|x86.ActiveCfg = Release|Win32
+		{64EAD50A-595F-41E2-B19F-59801C721F53}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
